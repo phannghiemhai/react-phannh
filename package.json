@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Phannh First React NPM package",
   "main": "build/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/phannghiemhai/react-phannh.git"
+  },
   "peerDependencies": {
     "react": "^15.5.4"
   },
